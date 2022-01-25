@@ -25,5 +25,5 @@
  */
 
 rootProject.name = 'balanced-java-contracts'
-include(':core-contracts',
-        ':token-contracts:stakedLP')
+include(':core-contracts:stakedLP',
+        ':token-contracts')
